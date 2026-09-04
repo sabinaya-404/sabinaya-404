@@ -1,6 +1,6 @@
 # sabinaya-404
 
-### Student.C.Linux.Web
+### Student . C . Linux . Web
 
 Learning by building, breaking, and fixing things.
 
@@ -8,7 +8,7 @@ Learning by building, breaking, and fixing things.
 
 ## whoami
 
-I'm a BCA student trying to actually understand what I'm building
+A student trying to actually understand what I'm building
 instead of just making things work somehow.
 
 Currently interested in:
@@ -48,7 +48,7 @@ Apparently reading `/proc` files for fun was a good idea.
 
 **Languages**
 
-`C` `C++` `JavaScript` `PHP` `HTML` `CSS`
+`C` `JavaScript` `PHP` `HTML` `CSS`
 
 **Tools / Frameworks**
 
