@@ -1,16 +1,49 @@
-## Hi there 👋
+# `sabinaya-404`
 
-<!--
-**sabinaya-404/sabinaya-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Student . C . Linux . Web`
 
-Here are some ideas to get you started:
+> Learning by building, breaking, and fixing things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `$ whoami`
+
+A student figuring things out one project at a time.
+
+I like understanding how things work underneath instead of just making them work and moving on.
+
+Right now I'm mostly messing around with **C, Linux, systems programming, and web development**.
+
+Still learning. Still breaking stuff. Still asking *"wtf is this?"* way too often.
+
+---
+
+## `$ currently_building`
+
+### >_ Linux System Dashboard
+
+A Linux system monitor I'm building in **C**, because apparently reading `/proc` files and dealing with system statistics sounded like a fun idea. ಥ_ಥ
+
+Currently exploring things like:
+
+- `/proc` and `/sys`
+- CPU & memory statistics
+- Process information
+- Network statistics
+- Linux system interfaces
+- POSIX APIs
+- HTTP / JSON
+- Make
+
+> Started recently, so this thing is very much a work in progress.
+
+---
+
+## `$ currently_learning`
+
+```text
+C
+Linux / Linux internals
+Systems programming
+Web development
+Git & GitHub
