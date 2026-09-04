@@ -1,49 +1,100 @@
-# `sabinaya-404`
+# sabinaya-404
 
-### `Student . C . Linux . Web`
+### Student.C.Linux.Web
 
-> Learning by building, breaking, and fixing things.
-
----
-
-## `$ whoami`
-
-A student figuring things out one project at a time.
-
-I like understanding how things work underneath instead of just making them work and moving on.
-
-Right now I'm mostly messing around with **C, Linux, systems programming, and web development**.
-
-Still learning. Still breaking stuff. Still asking *"wtf is this?"* way too often.
+Learning by building, breaking, and fixing things.
 
 ---
 
-## `$ currently_building`
+## whoami
 
-### >_ Linux System Dashboard
+I'm a BCA student trying to actually understand what I'm building
+instead of just making things work somehow.
 
-A Linux system monitor I'm building in **C**, because apparently reading `/proc` files and dealing with system statistics sounded like a fun idea. ಥ_ಥ
+Currently interested in:
 
-Currently exploring things like:
+- C and systems programming
+- Linux internals
+- Web development
+- Git / GitHub
+- Android customization
+- Understanding how things work underneath
 
-- `/proc` and `/sys`
-- CPU & memory statistics
-- Process information
-- Network statistics
-- Linux system interfaces
-- POSIX APIs
-- HTTP / JSON
-- Make
-
-> Started recently, so this thing is very much a work in progress.
+Still learning. Still breaking things. Still asking "why the hell is this happening?"
 
 ---
 
-## `$ currently_learning`
+## currently building
+
+### Linux System Dashboard
+
+A lightweight Linux system monitor written in C.
+
+Reading things directly from:
+
+`/proc`  
+`/sys`  
+`statvfs()`  
+POSIX sockets
+
+It collects system information and exposes it through both a terminal UI
+and a small web dashboard.
+
+Apparently reading `/proc` files for fun was a good idea.
+
+---
+
+## things I use
+
+**Languages**
+
+`C` `C++` `JavaScript` `PHP` `HTML` `CSS`
+
+**Tools / Frameworks**
+
+`React` `Vite` `MySQL` `Git` `Make`
+
+**Systems**
+
+`Linux` `Windows`
+
+---
+
+## projects
+
+→ **Linux System Dashboard**  
+C-based Linux system monitor + web dashboard
+
+→ **Personal Portfolio**  
+React + Vite + vanilla CSS
+
+→ **Portfolio Management System**  
+PHP + MySQL web application for managing multiple Demat accounts
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabinaya-404&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinaya-404&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sabinaya-404&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## learning log
 
 ```text
-C
-Linux / Linux internals
-Systems programming
-Web development
-Git & GitHub
+"this should work"
+        ↓
+"why doesn't it work?"
+        ↓
+"oh..."
+        ↓
+"okay, now I understand it"
+        ↓
+"let's break it again"
