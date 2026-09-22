@@ -73,19 +73,6 @@ PHP + MySQL web application for managing multiple Demat accounts
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabinaya-404&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinaya-404&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sabinaya-404&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## learning log
 
 ```text
